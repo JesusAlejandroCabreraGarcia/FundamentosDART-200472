@@ -94,6 +94,7 @@ class Person {
     Fecha de Registro: $formatedCreatedDate
     ------------------------------------------------------------
     """;
+    //corregimos unos errores
   }
   
 }
