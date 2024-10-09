@@ -22,6 +22,7 @@ Proyecto de clase para la unidad 1 de la asignatura de desarrollo móvil integra
 |12|Asserts|3|⭐Activa|
 |13|Clases Abstractas|11|⭐Activa|
 |14|Mixins|11|⭐Activa|
+|15|Future|3|⭐Activa|
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
